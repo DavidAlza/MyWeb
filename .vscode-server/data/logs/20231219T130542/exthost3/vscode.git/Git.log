@@ -21,3 +21,8 @@
 2023-12-20 22:09:50.605 [info] > git show --textconv :web.html [10ms]
 2023-12-20 22:09:50.608 [info] > git ls-files --stage -- /home/david/web.html [4ms]
 2023-12-20 22:09:51.970 [info] > git status -z -uall [2554ms] (cancelled)
+2023-12-20 22:30:55.188 [info] > git check-ignore -v -z --stdin [118ms]
+2023-12-20 22:46:55.153 [info] > git check-ignore -v -z --stdin [49ms]
+2023-12-20 22:51:34.180 [info] > git ls-files --stage -- /home/david/web.html [12ms]
+2023-12-20 22:51:34.197 [info] > git cat-file -s 622799c1513427496a494ebae24f28c4bd7874c1 [4ms]
+2023-12-20 22:51:34.241 [info] > git show --textconv :web.html [19ms]

@@ -68,3 +68,50 @@ python4 --version
 python3 --version
 clear
 python3
+sudo apt update
+sudo apt-get install git-all
+ssh-keygen -t ed25519 c "bohorquezalzate99@gmail.com"
+ssh-keygen -t ed25519 -C "bohorquezalzate99@gmail.com"
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_ed25519
+cat ~/.ssh/id-ed25519.pub
+cat ~/.ssh/id_ed25519.pub
+ls
+cd proyectoPersonal
+clean
+sudo clean
+ls
+cd proyectopersonal
+home
+cd home
+cd
+sl
+ls
+clean
+ls
+cd proyectoPersonal
+ls
+git init
+git status
+git add
+git add web.html
+git status
+git add
+git add web.html
+git status
+git pull
+git add Optimization/language/languageUpdate.php
+git add web.html
+clear
+ls
+git init
+git status
+git rm --cached web.html
+git status}
+git status
+git add web.html
+git status
+git add.
+git add .
+git status
+hd

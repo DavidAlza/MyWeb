@@ -1,3 +1,19 @@
 [Server(2515) david/] onInitialize
 [Server(2515) david/] Number of style sheets - 15
 [Server(2515) david/] setupInitialStylemap
+el 176
+  html 17 21
+  head 28 32
+  title 43 48
+  title 56 61
+  head 69 73
+  body 80 84
+  div 95 98
+  h1 113 115
+  h1 145 147
+  h2 162 164
+  h2 187 189
+  div 201 204
+  body 212 216
+  html 220 224
+Invalid Selector
