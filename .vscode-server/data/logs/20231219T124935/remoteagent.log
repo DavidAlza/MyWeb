@@ -1,0 +1,78 @@
+2023-12-19 12:49:36.103 [info] 
+
+
+
+
+2023-12-19 12:49:36.103 [info] Extension host agent started.
+2023-12-19 12:49:36.203 [info] Started initializing default profile extensions in extensions installation folder. file:///home/david/.vscode-server/extensions
+2023-12-19 12:49:36.316 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/david/.vscode-server/extensions
+2023-12-19 12:49:36.744 [info] [127.0.0.1][15d96617][ManagementConnection] New connection established.
+2023-12-19 12:49:37.910 [info] [127.0.0.1][3a32cf4c][ExtensionHostConnection] New connection established.
+2023-12-19 12:49:37.981 [info] [127.0.0.1][3a32cf4c][ExtensionHostConnection] <1594> Launched Extension Host Process.
+2023-12-19 12:59:17.901 [info] Getting Manifest... ritwickdey.liveserver
+2023-12-19 12:59:18.162 [info] Installing extension: ritwickdey.liveserver
+2023-12-19 12:59:27.042 [info] Extension signature is verified: ritwickdey.liveserver
+2023-12-19 12:59:46.005 [info] Extracted extension to /home/david/.vscode-server/extensions/.7fb3d6a2-ee0b-4990-aa60-8e48c1a63ff1: ritwickdey.liveserver
+2023-12-19 12:59:46.034 [info] Renamed to /home/david/.vscode-server/extensions/ritwickdey.liveserver-5.7.9
+2023-12-19 12:59:46.041 [info] Extracting extension completed. ritwickdey.liveserver
+2023-12-19 12:59:46.068 [info] Extension installed successfully: ritwickdey.liveserver
+2023-12-19 13:00:04.462 [info] Getting Manifest... streetsidesoftware.code-spell-checker
+2023-12-19 13:00:04.908 [info] Installing extension: streetsidesoftware.code-spell-checker
+2023-12-19 13:00:06.980 [info] Getting Manifest... pranaygp.vscode-css-peek
+2023-12-19 13:00:07.294 [info] Installing extension: pranaygp.vscode-css-peek
+2023-12-19 13:00:09.837 [info] Getting Manifest... dbaeumer.vscode-eslint
+2023-12-19 13:00:10.085 [info] Installing extension: dbaeumer.vscode-eslint
+2023-12-19 13:00:11.990 [info] Extension signature is verified: streetsidesoftware.code-spell-checker
+2023-12-19 13:00:13.492 [info] Getting Manifest... tgreen7.vs-code-node-require
+2023-12-19 13:00:13.832 [info] Installing extension: tgreen7.vs-code-node-require
+2023-12-19 13:00:15.174 [info] Extension signature is verified: pranaygp.vscode-css-peek
+2023-12-19 13:00:15.650 [info] Extracted extension to /home/david/.vscode-server/extensions/.da93bac6-e59a-4afd-a659-704da0164354: streetsidesoftware.code-spell-checker
+2023-12-19 13:00:15.709 [info] Renamed to /home/david/.vscode-server/extensions/streetsidesoftware.code-spell-checker-3.0.1
+2023-12-19 13:00:15.733 [info] Extracting extension completed. streetsidesoftware.code-spell-checker
+2023-12-19 13:00:15.781 [info] Extension installed successfully: streetsidesoftware.code-spell-checker
+2023-12-19 13:00:16.860 [info] Getting Manifest... ms-python.vscode-pylance
+2023-12-19 13:00:17.216 [info] Installing extension: ms-python.vscode-pylance
+2023-12-19 13:00:18.747 [info] Getting Manifest... ms-python.python
+2023-12-19 13:00:19.220 [info] Extension signature is verified: dbaeumer.vscode-eslint
+2023-12-19 13:00:19.422 [info] Installing extension: ms-python.python
+2023-12-19 13:00:20.206 [info] Extracted extension to /home/david/.vscode-server/extensions/.1c9ff1e8-dec1-4431-906e-d0d7ec8e01f6: dbaeumer.vscode-eslint
+2023-12-19 13:00:20.253 [info] Getting Manifest... ms-python.python
+2023-12-19 13:00:20.309 [info] Getting Manifest... ms-python.vscode-pylance
+2023-12-19 13:00:20.365 [info] Renamed to /home/david/.vscode-server/extensions/dbaeumer.vscode-eslint-2.4.2
+2023-12-19 13:00:20.399 [info] Extracting extension completed. dbaeumer.vscode-eslint
+2023-12-19 13:00:20.426 [info] Extension installed successfully: dbaeumer.vscode-eslint
+2023-12-19 13:00:21.127 [info] Installing extension: ms-python.python ms-python.vscode-pylance
+2023-12-19 13:00:21.248 [info] Installing extension: ms-python.vscode-pylance ms-python.python
+2023-12-19 13:00:24.297 [info] Extension signature is verified: tgreen7.vs-code-node-require
+2023-12-19 13:00:29.300 [info] Extension signature is verified: ms-python.python
+2023-12-19 13:00:29.505 [info] Extension signature is verified: ms-python.python
+2023-12-19 13:00:40.226 [info] Extracted extension to /home/david/.vscode-server/extensions/.c3c8dbe2-bb54-4642-bb0a-59448252f67e: tgreen7.vs-code-node-require
+2023-12-19 13:00:40.245 [info] Renamed to /home/david/.vscode-server/extensions/tgreen7.vs-code-node-require-1.10.2
+2023-12-19 13:00:40.255 [info] Extracting extension completed. tgreen7.vs-code-node-require
+2023-12-19 13:00:40.281 [info] Extension installed successfully: tgreen7.vs-code-node-require
+2023-12-19 13:00:54.168 [info] Extracted extension to /home/david/.vscode-server/extensions/.e75c962c-a092-4605-bfbf-9c3316587192: ms-python.python
+2023-12-19 13:00:54.196 [info] Renamed to /home/david/.vscode-server/extensions/ms-python.python-2023.14.0
+2023-12-19 13:00:54.218 [info] Extracting extension completed. ms-python.python
+2023-12-19 13:00:54.520 [info] Extracted extension to /home/david/.vscode-server/extensions/.ade6ba5e-3c31-4070-a175-f1c90f0b5af4: ms-python.python
+2023-12-19 13:00:54.536 [info] Renamed to /home/david/.vscode-server/extensions/ms-python.python-2023.15.12191008
+2023-12-19 13:00:54.550 [info] Extracting extension completed. ms-python.python
+2023-12-19 13:00:54.687 [info] Marked extension as uninstalled ms-python.python-2023.14.0
+2023-12-19 13:00:59.060 [info] Extracted extension to /home/david/.vscode-server/extensions/.72b29d2e-dc26-47f5-a74e-8702dd5e0fa1: pranaygp.vscode-css-peek
+2023-12-19 13:00:59.081 [info] Renamed to /home/david/.vscode-server/extensions/pranaygp.vscode-css-peek-4.4.1
+2023-12-19 13:00:59.088 [info] Extracting extension completed. pranaygp.vscode-css-peek
+2023-12-19 13:00:59.112 [info] Extension installed successfully: pranaygp.vscode-css-peek
+2023-12-19 13:01:02.460 [info] Extension signature is verified: ms-python.vscode-pylance
+2023-12-19 13:01:02.550 [info] Extension signature is verified: ms-python.vscode-pylance
+2023-12-19 13:01:30.429 [info] Extracted extension to /home/david/.vscode-server/extensions/.67fba74b-738e-4bdf-92e6-6e11f7caab94: ms-python.vscode-pylance
+2023-12-19 13:01:30.446 [info] Renamed to /home/david/.vscode-server/extensions/ms-python.vscode-pylance-2023.12.100
+2023-12-19 13:01:30.456 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-12-19 13:01:30.473 [info] Extension installed successfully: ms-python.python
+2023-12-19 13:01:30.473 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-12-19 13:01:30.497 [info] Extracted extension to /home/david/.vscode-server/extensions/.723b67cf-5bd2-4a5e-9b54-99c6c24cc730: ms-python.vscode-pylance
+2023-12-19 13:01:30.509 [info] Renamed to /home/david/.vscode-server/extensions/ms-python.vscode-pylance-2023.12.1
+2023-12-19 13:01:30.516 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-12-19 13:01:30.528 [info] Extension installed successfully: ms-python.python
+2023-12-19 13:01:30.529 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-12-19 13:01:30.555 [info] Marked extension as uninstalled ms-python.vscode-pylance-2023.12.100
+2023-12-19 13:05:35.458 [info] [127.0.0.1][15d96617][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-12-19 13:05:36.024 [info] [127.0.0.1][3a32cf4c][ExtensionHostConnection] <1594> Extension Host Process exited with code: 0, signal: null.

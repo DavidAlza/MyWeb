@@ -1,0 +1,23 @@
+2023-12-19 13:05:42.589 [info] 
+
+
+
+
+2023-12-19 13:05:42.673 [info] Extension host agent started.
+2023-12-19 13:05:42.955 [info] [127.0.0.1][0180959a][ManagementConnection] New connection established.
+2023-12-19 13:05:43.321 [info] Deleted from disk ms-python.python /home/david/.vscode-server/extensions/ms-python.python-2023.14.0
+2023-12-19 13:05:43.325 [info] Deleted from disk ms-python.vscode-pylance /home/david/.vscode-server/extensions/ms-python.vscode-pylance-2023.12.100
+2023-12-19 13:05:43.913 [info] [127.0.0.1][b698049a][ExtensionHostConnection] New connection established.
+2023-12-19 13:05:43.949 [info] [127.0.0.1][b698049a][ExtensionHostConnection] <2075> Launched Extension Host Process.
+2023-12-19 13:08:18.330 [info] [127.0.0.1][496b88db][ManagementConnection] New connection established.
+2023-12-19 13:08:21.441 [info] [127.0.0.1][5464c18b][ExtensionHostConnection] New connection established.
+2023-12-19 13:08:22.257 [info] [127.0.0.1][5464c18b][ExtensionHostConnection] <2200> Launched Extension Host Process.
+2023-12-19 13:19:13.652 [info] [127.0.0.1][496b88db][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-12-19 13:19:14.187 [info] [127.0.0.1][5464c18b][ExtensionHostConnection] <2200> Extension Host Process exited with code: 0, signal: null.
+2023-12-19 13:19:41.217 [info] [127.0.0.1][af6aff9e][ManagementConnection] New connection established.
+2023-12-19 13:19:43.136 [info] [127.0.0.1][5ad76b78][ExtensionHostConnection] New connection established.
+2023-12-19 13:19:43.155 [info] [127.0.0.1][5ad76b78][ExtensionHostConnection] <2449> Launched Extension Host Process.
+2023-12-20 21:24:06.091 [info] [127.0.0.1][0180959a][ManagementConnection] The client has reconnected.
+2023-12-20 21:24:11.969 [info] [127.0.0.1][af6aff9e][ManagementConnection] The client has reconnected.
+2023-12-20 21:24:13.871 [info] [127.0.0.1][b698049a][ExtensionHostConnection] The client has reconnected.
+2023-12-20 21:24:16.562 [info] [127.0.0.1][5ad76b78][ExtensionHostConnection] The client has reconnected.
